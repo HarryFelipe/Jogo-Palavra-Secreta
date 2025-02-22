@@ -1,6 +1,6 @@
 import os
 
-palavra = 'corinthians'
+palavra = 'paralelepipedo'
 letras_acertadas = ''
 tentativa = 0
 acertou = 0
